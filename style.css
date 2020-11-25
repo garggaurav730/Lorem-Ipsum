@@ -1,0 +1,30 @@
+h3 {
+  font-size: 4rem;
+  color: rebeccapurple;
+  margin-left: 260px;
+  
+}
+
+.label1 {
+  font-size: 2rem;
+  margin-left: 400px;
+}
+
+#amount {
+  height: 30px;
+  font-size: 25px;
+}
+
+.btn {
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 10%;
+  box-shadow: 5px 6px yellow;
+  font-size: 2rem;
+  margin-left: 20px;
+  transition: transform 0.1s;
+}
+
+.btn:active {
+  transform: translate(2px,2px);
+}
